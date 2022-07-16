@@ -444,7 +444,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 50vh;
-  background: url("../img/Jinyoung/JYE_Building1.jpg") left;
+  background: url("../../assets/img/Jinyoung/JYE_Building1.jpg") left;
   background-size: cover;
   position: relative;
 }
